@@ -11,7 +11,7 @@ Sunoikisis Digital Classics 2019-2020 Winter, Spring, Summer semester syllabuses
 
 ***
 #### Partnership
-Starting from 2019 and as part of a long established collaboration, SunoikisisDC is a project partner of Pelagios Commons ([Pegadogy](https://pelagios.org/activities/pedagogy/)).
+Starting from 2019 and as part of a long established collaboration, SunoikisisDC is a project partner of Pelagios Commons ([Pegadogy](https://pelagios.org/activities/pedagogy/)) to support the use of linked data in education and cultural heritage.
 
 
 ***
