@@ -605,7 +605,6 @@ initium
 narro
 facio
 L
-PERIOD
 Catilina
 nobilis
 genus
@@ -681,7 +680,6 @@ hic
 post
 dominatio
 L
-PERIOD
 Sulla
 libido
 magnus
@@ -1572,7 +1570,6 @@ minuo
 sed
 postquam
 L
-PERIOD
 Sulla
 armus
 recipio
@@ -1611,7 +1608,6 @@ huc
 adcedo
 quod
 L
-PERIOD
 Sulla
 exercitus
 qui
@@ -2294,7 +2290,6 @@ Italia
 nullus
 exercitus
 Cn
-PERIOD
 Pompejus
 in
 extremus
@@ -2325,11 +2320,9 @@ circiter
 Kalendae
 Junius
 L
-PERIOD
 Caesar
 et
 C
-PERIOD
 Figulus
 consul
 primus
@@ -2370,61 +2363,45 @@ convenio
 senatorius
 ordo
 P
-PERIOD
 Lentulus
 Sura
 P
-PERIOD
 Autronius
 L
-PERIOD
 Cassius
 Longinus
 C
-PERIOD
 Cethegus
 P
-PERIOD
 et
 Servius
-PERIOD
 Sulla
 Servius
-PERIOD
 filius
 L
-PERIOD
 Vargunteius
 Q
-PERIOD
 Annius
 M
-PERIOD
 Porcius
 Laeca
 L
-PERIOD
 Bestia
 Q
-PERIOD
 curius
 praeterea
 ex
 equester
 ordo
 M
-PERIOD
 fulvus
 Nobilior
 L
-PERIOD
 Statilius
 P
-PERIOD
 Gabinius
 Capito
 C
-PERIOD
 Cornelius
 ad
 hic
@@ -2487,7 +2464,6 @@ tempestas
 qui
 credo
 M
-PERIOD
 Licinius
 Crassus
 non
@@ -2497,7 +2473,6 @@ consilium
 sum
 quia
 Cn
-PERIOD
 Pompejus
 invisus
 ipse
@@ -2541,18 +2516,15 @@ verissume
 possum
 dica
 L
-PERIOD
 Tullus
 et
 M
 lepidus
 consul
 P
-PERIOD
 Autronius
 et
 P
-PERIOD
 Sulla
 designo
 consul
@@ -2581,7 +2553,6 @@ sum
 idem
 tempus
 Cn
-PERIOD
 Piso3
 adulescens
 nobilis
@@ -2615,11 +2586,9 @@ Capitolium
 Kalendae
 Januarius
 L
-PERIOD
 Cotta
 et
 L
-PERIOD
 Torquatus
 consul
 interficio
@@ -2700,7 +2669,6 @@ is
 infestus
 inimicus
 Cn
-PERIOD
 Pompejus
 cognosco
 que
@@ -2767,7 +2735,6 @@ autem
 eques
 ille
 Cn
-PERIOD
 Pompejus
 veteres
 que
@@ -3292,7 +3259,6 @@ Mauretania
 cum
 exercitus
 P
-PERIOD
 Sittius
 Nucerinus
 consilium
@@ -3301,7 +3267,6 @@ particeps
 peto
 consulatus
 C
-PERIOD
 Antonius
 qui
 sui
@@ -3462,7 +3427,6 @@ is
 conjuratio
 sum
 Q
-PERIOD
 Curius
 nascor
 haud
@@ -3583,7 +3547,6 @@ ad
 consulatus
 mando
 M
-PERIOD
 Tullius
 Cicero
 que
@@ -3621,11 +3584,9 @@ habeo
 consul
 declaro
 noun
-PERIOD
 Tullius
 et
 C
-PERIOD
 Antonius
 qui
 factum
@@ -3887,7 +3848,6 @@ Fulvius
 efficio
 ut
 Quintus
-PERIOD
 Curius
 de
 quis
@@ -3955,7 +3915,6 @@ foedus
 evenio
 igitur
 Gaius
-PERIOD
 Manlius
 Faesulae
 atque
@@ -3970,7 +3929,6 @@ in
 ager
 Picenus
 Gaius
-PERIOD
 Iulius
 in
 Appulia
@@ -4039,7 +3997,6 @@ princeps
 convoco
 per
 Marcus
-PERIOD
 Porcius
 Laeca
 que
@@ -4092,7 +4049,6 @@ atque
 dubito
 ceterum
 C
-PERIOD
 Cornelius
 eques
 Romanus
@@ -4103,7 +4059,6 @@ et
 cum
 is
 L
-PERIOD
 Vargunteius
 senator
 constituo
@@ -4295,7 +4250,6 @@ post
 paucus
 dies
 L
-PERIOD
 Saenius
 senator
 in
@@ -4312,7 +4266,6 @@ qui
 scribo
 sum
 C
-PERIOD
 Manlius
 arma
 capio
@@ -4352,12 +4305,10 @@ igitur
 senatus
 decretum
 Q
-PERIOD
 Marcius
 rex
 Faesulae
 Q
-PERIOD
 Metellus
 Creticus
 in
@@ -4388,12 +4339,10 @@ sum
 sed
 praetor
 quintus
-PERIOD
 Pompejus
 Rufus
 Capua
 quintus
-PERIOD
 Metellus
 Celer
 in
@@ -4564,7 +4513,6 @@ interrogo
 sum
 ab
 Lucius
-PERIOD
 Paulus
 postremo
 dissimulo
@@ -4581,7 +4529,6 @@ senatus
 venio
 tum
 M
-PERIOD
 Tullius
 consul
 sive
@@ -4666,7 +4613,6 @@ cum
 is
 servo
 M
-PERIOD
 Tullius
 inquilinus
 civis
@@ -4793,7 +4739,6 @@ hic
 Roma
 gero
 Gaius
-PERIOD
 Manlius
 ex
 suus
@@ -4974,7 +4919,6 @@ QUOTE
 ad
 hic
 Quintus
-PERIOD
 Marcius
 respondeo
 si
@@ -5059,7 +5003,6 @@ longus
 divorto
 littera
 Q
-PERIOD
 catulus
 in
 senatus
@@ -5077,10 +5020,8 @@ scribo
 edo
 QUOTE
 Lucius
-PERIOD
 Catilina
 Q
-PERIOD
 catulus
 egregius
 tuus
@@ -5226,7 +5167,6 @@ dies
 conmoror
 apud
 Gaius
-PERIOD
 flaminius3
 in
 ager
@@ -5589,11 +5529,9 @@ revorto
 nam
 postquam
 Cn
-PERIOD
 Pompejus
 et
 M
-PERIOD
 Crassus
 consul
 tribunicius
@@ -5690,7 +5628,6 @@ exerceo
 sed
 postquam
 Cn
-PERIOD
 Pompejus
 ad
 bellum
@@ -5849,7 +5786,6 @@ usus
 sum
 igitur
 P
-PERIOD
 Umbrenus
 quidam
 negotium
@@ -6006,7 +5942,6 @@ is
 in
 domus
 D
-PERIOD
 Brutus
 perduco
 quod
@@ -6101,7 +6036,6 @@ res
 publicus
 ita
 Q
-PERIOD
 Fabius
 Sanga
 qui
@@ -6189,7 +6123,6 @@ is
 numerus
 complures
 Q
-PERIOD
 Metellus
 Celer
 praetor
@@ -6206,7 +6139,6 @@ in
 citer
 Gallia
 C
-PERIOD
 Murena
 qui
 is
@@ -6238,7 +6170,6 @@ cum
 exercitus
 venio
 L
-PERIOD
 Bestia
 tribunus
 plebs
@@ -6430,7 +6361,6 @@ Lentulus
 cum
 is
 T
-PERIOD
 Vulturcius
 quidam
 Crotoniensis
@@ -6534,12 +6464,10 @@ legatus
 cunctus
 edoceo
 L
-PERIOD
 Valerius
 Flaccus
 et
 C
-PERIOD
 Pomptinus
 praetor
 impero
@@ -6824,13 +6752,10 @@ soleo
 ex
 Gabinius
 P
-PERIOD
 Autronius
 Servius
-PERIOD
 Sulla
 L
-PERIOD
 Vargunteius
 multi
 praeterea
@@ -6916,7 +6841,6 @@ habeo
 ita
 Lentulus
 P
-PERIOD
 Lentulus
 Spintherus
 qui
@@ -6925,15 +6849,12 @@ aedilis
 sum
 Cethegus
 Q
-PERIOD
 Cornificius
 Statilius
 C
-PERIOD
 Caesar
 Gabinus
 M
-PERIOD
 Crassus
 Caeparius
 nam
@@ -6945,7 +6866,6 @@ fuga
 retraho
 sum
 Cn
-PERIOD
 Terentius
 senator
 trado
@@ -7013,7 +6933,6 @@ is
 dies
 quidam
 L
-PERIOD
 Tarquinius
 ad
 senatus
@@ -7065,7 +6984,6 @@ sui
 mitto
 ab
 M
-PERIOD
 Crassus
 qui
 Catilina
@@ -7188,7 +7106,6 @@ indicium
 ille
 ab
 P
-PERIOD
 Autronius
 machinor
 quo
@@ -7235,11 +7152,9 @@ sed
 idem
 tempus
 Q
-PERIOD
 catulus
 et
 C
-PERIOD
 Piso3
 bracket
 que
@@ -7262,7 +7177,6 @@ aut
 alius
 index
 C
-PERIOD
 Caesar
 falso
 nomino
@@ -7388,7 +7302,6 @@ legatus
 Allobroges
 et
 T
-PERIOD
 Vulturcius
 conprobo
 is
@@ -7485,7 +7398,6 @@ publicus
 facio
 tum
 D
-PERIOD
 Junius
 Silanus
 primus
@@ -7507,16 +7419,12 @@ et
 praeterea
 de
 L
-PERIOD
 Cassius
 P
-PERIOD
 Furius
 P
-PERIOD
 Umbrenus
 Q
-PERIOD
 Annius
 si
 deprehendo
@@ -7530,13 +7438,11 @@ postea
 permoveo
 oratio
 C
-PERIOD
 Caesar
 pedis
 in
 sententia
 Tiberius
-PERIOD
 Nero
 eo
 sui
@@ -7739,7 +7645,6 @@ apud
 tu
 valeo
 P
-PERIOD
 Lentulus
 et
 ceterus
@@ -7975,7 +7880,6 @@ paulus
 severus
 sum
 D
-PERIOD
 Silanus
 vir
 fortis
@@ -8365,7 +8269,6 @@ hic
 non
 in
 M
-PERIOD
 Tullius
 que
 ne
@@ -8618,7 +8521,6 @@ varius
 adsentio
 at
 M
-PERIOD
 Porcius
 Cato
 rogo
@@ -8913,7 +8815,6 @@ bene
 et
 compositus
 C
-PERIOD
 Caesar
 paulus
 ante
@@ -9030,7 +8931,6 @@ quare
 cum
 de
 P
-PERIOD
 Lentulus
 que
 ceterus
@@ -9309,7 +9209,6 @@ apud
 majores
 noster
 Aulus
-PERIOD
 Manlius
 Torquatus
 bellum
@@ -9461,7 +9360,6 @@ que
 is
 indicium
 Titus
-PERIOD
 Vulturcius
 et
 legatum
@@ -9651,11 +9549,9 @@ sum
 vir
 duo
 M
-PERIOD
 Cato
 et
 C
-PERIOD
 Caesar
 qui
 quoniam
@@ -9701,7 +9597,6 @@ habeo
 integritas
 vita
 Cato
-PERIOD
 ille
 mansuetudo
 et
@@ -10122,7 +10017,6 @@ Gallia
 transalpinus
 at
 Q
-PERIOD
 Metellus
 celer
 cum
@@ -10654,7 +10548,6 @@ primus
 acies
 subduco
 C
-PERIOD
 Manlius
 in
 dextera
@@ -10677,7 +10570,6 @@ qui
 bellum
 Cimbricus
 C
-PERIOD
 Marius
 in
 exercitus
@@ -10688,7 +10580,6 @@ ex
 alter
 pars
 C
-PERIOD
 Antonius
 pes
 aeger
@@ -10697,7 +10588,6 @@ proelium
 adsum
 nequeo
 M
-PERIOD
 Petreius
 legatus
 exercitus
