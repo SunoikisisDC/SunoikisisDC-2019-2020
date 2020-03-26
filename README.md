@@ -7,9 +7,13 @@ Sunoikisis Digital Classics 2019-2020 Winter, Spring, Summer semester syllabuses
    * [Fall 2019: Sunoikisis Digital Cultural Heritage](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Fall-2019-Sunioikisis-DCH) (chaired by Valeria Vitale & Gabriel Bodard)
    * [Spring 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Spring-2020-Sunioikisis-DC) (chaired by Gabriel Bodard & Dimitar Iliev)
    * [Summer 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer-2020-Sunioikisis-DC) (tba) (chaired by Monica Berti & Dimitar Iliev)
+
+
 ***
 #### Other Activites
 * Mini-course on digital tools in the humanities ([*Usando plataformas online abertas para consulta, alinhamento de traduções, e para anotações linguísticas de textos de línguas históricas*](https://www.congresso2019.classica.org.br/conteudo/view?ID_CONTEUDO=452)): XXII Brazilian Society of Classical Studies (SBEC) Conference. September 3-6, 2019.
+* [Teaching Digital Classics in the ICS and Internationally](https://ics.blogs.sas.ac.uk/2019/08/02/teaching-digital-classics-in-the-ics-and-internationally/)
+
 
 ***
 #### Partnership
