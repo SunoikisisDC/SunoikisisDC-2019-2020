@@ -13,6 +13,7 @@ Sunoikisis Digital Classics 2019-2020 Winter, Spring, Summer semester syllabuses
 #### Other Activites
 * Mini-course on digital tools in the humanities ([*Usando plataformas online abertas para consulta, alinhamento de traduções, e para anotações linguísticas de textos de línguas históricas*](https://www.congresso2019.classica.org.br/conteudo/view?ID_CONTEUDO=452)): XXII Brazilian Society of Classical Studies (SBEC) Conference. September 3-6, 2019.
 * [Teaching Digital Classics in the ICS and Internationally](https://ics.blogs.sas.ac.uk/2019/08/02/teaching-digital-classics-in-the-ics-and-internationally/)
+* [Numismatics Webinar](https://www.facebook.com/events/663889474447904/) (May 10, 2020, 11:00-12:45 UTC+03) organized by Cult & Religion in Ancient Thrace
 
 
 ***
