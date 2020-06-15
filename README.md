@@ -6,7 +6,7 @@ Sunoikisis Digital Classics 2019-2020 Winter, Spring, Summer semester syllabuses
 * [SunoikisisDC 2019-2020 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki) (syllabi and class outlines)
    * [Fall 2019: Sunoikisis Digital Cultural Heritage](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Fall-2019-Sunioikisis-DCH) (chaired by Valeria Vitale & Gabriel Bodard)
    * [Spring 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Spring-2020-Sunioikisis-DC) (chaired by Gabriel Bodard & Dimitar Iliev)
-   * [Summer 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer-2020-Sunioikisis-DC) (chaired by Monica Berti & Dimitar Iliev)
+   * [Summer 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020/wiki/Summer-2020-Sunoikisis-DC) (chaired by Monica Berti & Dimitar Iliev)
 
 
 ***
